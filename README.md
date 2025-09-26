@@ -1,3 +1,4 @@
+Problem Statement
 Modern enterprises face increasing threats to their databases from both external attackers and insider misuse.
 
 Traditional intrusion detection systems (IDS) often struggle to differentiate between harmless probing attempts (dummy/fake attacks) and genuine malicious queries that aim to exfiltrate sensitive data. This leads to either:
